@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/joshuayabut/node-stratum-pool",
+    "homepage": "https://github.com/jasonh-ca/stratum-pool",
     "bugs": {
-        "url": "https://github.com/joshuayabut/node-stratum-pool/issues"
+        "url": "https://github.com/jasonh-ca/stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,7 +25,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/joshuayabut/node-stratum-pool.git"
+        "url": "https://github.com/jasonh-ca/stratum-pool.git"
     },
     "dependencies": {
         "async": "*",
